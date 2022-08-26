@@ -22,5 +22,6 @@
 *Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server) NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
 
 
-***succesful deployment url-link:
-####http://project-dev2.us-east-1.elasticbeanstalk.com/
+**succesful deployment url-link is
+
+[###](http://project-dev2.us-east-1.elasticbeanstalk.com/)
