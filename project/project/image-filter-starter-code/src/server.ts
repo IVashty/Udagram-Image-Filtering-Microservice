@@ -30,7 +30,7 @@ import { Router,Request,Response } from 'express';
   //   the filtered image file [!!TIP res.sendFile(filteredpath); might be useful]
 
   /****************************************************************************/
-  /*ASSIGNMENT. */
+  /*ASSIGNMENT.-->used the url image.png */
   app.get( '/filteredimage', async ( req: Request, res: Response ) =>
   {
 
